@@ -7,7 +7,7 @@
   <title>Hello world</title>
 </head>
 <body>
-  <p><?php echo 'Hello World' ?></p>
+  <p><?php echo 'Hello World'; ?></p>
   
 </body>
 </html>
