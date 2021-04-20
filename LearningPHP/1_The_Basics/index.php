@@ -1,7 +1,7 @@
 <?php
-  echo 'Hello world';
-?>
+  // include("connect.php");
 
-<?php
+  echo 'Hello world';
+
   print 'Hello word';
 ?>
