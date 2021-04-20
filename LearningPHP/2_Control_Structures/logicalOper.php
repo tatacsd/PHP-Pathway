@@ -1,5 +1,4 @@
 <?php
-
 $a = 9 > 5; //true
 $b = 10 != 10; // false
 $c = $a && $b; // false
