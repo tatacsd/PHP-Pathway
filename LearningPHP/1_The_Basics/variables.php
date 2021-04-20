@@ -13,9 +13,4 @@
   define('VERSION', 1.1);
   echo VERSION;
 
-
-
-  // STRING
-  $name = "Joe";
-  $first_name = 'J';
 ?>
